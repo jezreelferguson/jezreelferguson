@@ -61,6 +61,7 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 - 💼 **Qlick API** – FastAPI, PostgreSQL, JWT Authentication
 - 🛒 **Laravel E-commerce Platform** – Laravel, MySQL, Livewire
 - 📱 **React Native Mobile App** – Expo, TypeScript
+- **pen65** - Laravel, Typescript, Vue, MongoDB
 
 ## 📊 GitHub Statistics
 
