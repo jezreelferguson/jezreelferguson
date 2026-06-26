@@ -94,7 +94,9 @@ I'm currently open to remote opportunities.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=jezreelferguson&theme=radical&no-frame=true&no-bg=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jezreelferguson&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ---
 
