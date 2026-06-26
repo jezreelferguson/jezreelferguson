@@ -57,11 +57,12 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 
 ## 🚀 Featured Projects
 
-- 🤖 **AI Health Assistant** – FastAPI, React, Pinecone, Groq
-- 💼 **Qlick API** – FastAPI, PostgreSQL, JWT Authentication
-- 🛒 **Laravel E-commerce Platform** – Laravel, MySQL, Livewire
-- 📱 **React Native Mobile App** – Expo, TypeScript
-- **pen65** - Laravel, Typescript, Vue, MongoDB
+- 🤖 **[AI Health Assistant](https://github.com/yourusername/project)** — FastAPI, React, Pinecone, Groq
+- 💼 **[Qlick API](https://github.com/yourusername/qlick-api)** — FastAPI, PostgreSQL, JWT Authentication
+- 🛒 **[Laravel E-commerce Platform](https://github.com/yourusername/project)** — Laravel, MySQL, Livewire
+- 📱 **[React Native Mobile App](https://github.com/yourusername/project)** — Expo, TypeScript
+- 🏢 **[PEN65](https://github.com/yourusername/pen65)** — Laravel, TypeScript, Vue.js, MongoDB
+- ⛪ **[Church Manager](https://github.com/yourusername/churchmanager)** — Laravel, JavaScript, jQuery, MongoDB, MySQL
 
 ## 📊 GitHub Statistics
 
