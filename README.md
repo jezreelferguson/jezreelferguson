@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full Stack Software Engineer specializing in AI/ML, backend systems, and modern frontend development. Passionate about building scalable, user-focused applications that solve real-world problems.
+
+Hello, I'm Anokye Ferguson Adu, a Full Stack Software Engineer with experience in AI/ML, backend systems, and modern frontend development. I build scalable, user-focused applications that solve real-world problems.
 
 
 ## 🌐 Socials:
