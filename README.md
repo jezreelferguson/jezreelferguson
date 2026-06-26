@@ -55,12 +55,19 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
-- 🤖 **[AI Health Assistant]** — FastAPI, React, Pinecone, Groq
-- 💼 **[Qlick API]** — FastAPI, PostgreSQL, JWT Authentication
-- 🛒 **[Laravel E-commerce Platform]** — Laravel, MySQL, Livewire
-- 📱 **[React Native Mobile App]** — Expo, TypeScript
+- 🤖 **AI Health Assistant**  
+  An AI-powered health assistant that provides educational health information using Retrieval-Augmented Generation (RAG). Built with **FastAPI, React, Pinecone, and Groq**.
+
+- 💼 **Qlick API**  
+  A secure and scalable RESTful API featuring user authentication, authorization, and database management. Built with **FastAPI, PostgreSQL, SQLAlchemy, and JWT Authentication**.
+
+- 🛒 **Laravel E-commerce Platform**  
+  A full-stack e-commerce application with product management, shopping cart, order processing, and secure authentication. Built with **Laravel, MySQL, and Livewire**.
+
+- 🎬 **CineVerse**  
+  An IMDb-inspired mobile application that allows users to discover trending movies, explore detailed information, search titles, and manage favorites. Built with **React Native, Expo, TypeScript, Axios, and the TMDb API**.
 
 
   ## 💼 Open to Work
