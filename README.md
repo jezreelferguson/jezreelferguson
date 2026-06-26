@@ -55,6 +55,13 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 
 ---
 
+## 🚀 Featured Projects
+
+- 🤖 **AI Health Assistant** – FastAPI, React, Pinecone, Groq
+- 💼 **Qlick API** – FastAPI, PostgreSQL, JWT Authentication
+- 🛒 **Laravel E-commerce Platform** – Laravel, MySQL, Livewire
+- 📱 **React Native Mobile App** – Expo, TypeScript
+
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api?username=jezreelferguson&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
