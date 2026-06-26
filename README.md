@@ -64,6 +64,11 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 - 🏢 **[PEN65](https://github.com/yourusername/pen65)** — Laravel, TypeScript, Vue.js, MongoDB
 - ⛪ **[Church Manager](https://github.com/yourusername/churchmanager)** — Laravel, JavaScript, jQuery, MongoDB, MySQL
 
+
+  ## 💼 Open to Work
+
+I'm currently open to remote opportunities.
+
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.shion.dev/api?username=jezreelferguson&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
