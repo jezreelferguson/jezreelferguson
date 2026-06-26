@@ -76,7 +76,7 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 
   ## 💼 Open to Work
 
-I'm currently open to remote opportunities.
+  I'm currently open to remote opportunities.
 
 ## 📊 GitHub Statistics
 
