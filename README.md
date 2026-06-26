@@ -4,6 +4,10 @@
 
 I'm a Full Stack Software Engineer with experience building AI/ML solutions, backend systems, and modern web applications. I enjoy creating scalable, user-focused software that solves real-world problems.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Laravel+%7C+FastAPI+%7C+React;Building+Scalable+Applications;Always+Building+Something+New" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
