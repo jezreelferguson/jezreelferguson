@@ -1,11 +1,11 @@
-<p align="left">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
-</p>
 # Hi there 👋, I'm Anokye Ferguson Adu
 
 
 Full Stack Software Engineer
 I'm a Full Stack Software Engineer with experience building AI/ML solutions, backend systems, and modern web applications. I enjoy creating scalable, user-focused software that solves real-world problems.
+<p align="left">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
+</p>
 
 
 ---
