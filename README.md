@@ -101,3 +101,8 @@ I'm currently open to remote opportunities.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jezreelferguson&color=0e75b6&style=flat)
+
+
+## 📈 Contribution Graph
+
+[![Anokye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jezreelferguson&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
