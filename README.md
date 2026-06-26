@@ -61,8 +61,9 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 - 💼 **[Qlick API](https://github.com/yourusername/qlick-api)** — FastAPI, PostgreSQL, JWT Authentication
 - 🛒 **[Laravel E-commerce Platform](https://github.com/yourusername/project)** — Laravel, MySQL, Livewire
 - 📱 **[React Native Mobile App](https://github.com/yourusername/project)** — Expo, TypeScript
-- 🏢 **[PEN65](https://github.com/yourusername/pen65)** — Laravel, TypeScript, Vue.js, MongoDB
+- 🏢 **[PEN65](https://github.com/yourusername/pen65)** — Laravel, TypeScript, Vue.js, MongoDB, Redis
 - ⛪ **[Church Manager](https://github.com/yourusername/churchmanager)** — Laravel, JavaScript, jQuery, MongoDB, MySQL
+- School Manager - Laravel, Mysql, Javascript, JQuery
 
 
   ## 💼 Open to Work
