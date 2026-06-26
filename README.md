@@ -100,4 +100,11 @@ I'm currently open to remote opportunities.
 
 ---
 
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=jezreelferguson&color=0e75b6&style=flat)
