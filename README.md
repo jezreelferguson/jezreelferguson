@@ -39,6 +39,7 @@ I'm a Full Stack Software Engineer with experience building AI/ML solutions, bac
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1E1E1E?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
